@@ -59,6 +59,15 @@ The flow of letters creates a unique personal style.
   ### 📌 Notes
 	•	Model files (*.pth) and cache files are ignored using .gitignore
 	•	This project generates text, not handwriting images
+    ## 📬 Contact
+
+**Bhagyashree Mali** — *B.E. Artificial Intelligence & Machine Learning Student*
+
+* **Email:** [BHAGYASHREEMALI1624@gmail.com](mailto:BHAGYASHREEMALI1624@gmail.com)
+* **LinkedIn: [www.linkedin.com/in/bhagyashree-mali]
+* **GitHub:** [github.com/bhagyashreemali](https://github.com/bhagyashreemali)
+
+---
 
 
 
